@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio of some selected projects of mine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkgesen/Bootstrap-Portfolio.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Clark Gesen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkgesen/Bootstrap-Portfolio/issues"
+  },
+  "homepage": "https://github.com/clarkgesen/Bootstrap-Portfolio#readme"
+}
